@@ -2,7 +2,7 @@
 
 ![](https://eitanlees.com/img/eitan_banner.jpg)
 
-I am a former physicist turned programmer with research building complex computational models for physical systems. In recent years I have been interested in data science, specifically the development of visualization tools which provide rich interactions with data. I am actively involved with the open source community, and enjoy making contributions that improve people’s lives.
+I am a former physicist turned programmer with research experience building complex computational models for physical systems. In recent years I have been interested in data science, specifically the development of visualization tools which provide rich interactions with data. I am actively involved with the open source community, and enjoy making contributions that improve people’s lives.
 
 - 🔭 I’m currently working on ... 
   - a career in data science
