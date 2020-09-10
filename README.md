@@ -10,7 +10,7 @@ I am a former physicist turned programmer with research experience building comp
   - publishing chapters of [my dissertation](https://eitanlees.com/eitan-lees-dissertation.pdf)
 - 🌱 I’m currently learning ...
   - how to leverage visualization in efficient and effective ways
-  - how to use `fastai` to rapidly develop deep learning models
+  - how to use [fastai](https://www.fast.ai/) to rapidly develop deep learning models
   - how to build an open source project, checkout [slickml](https://github.com/slickml/slick-ml)
 - 👯 I’m always looking to collaborate on open source data science projects.
 - 💬 Ask me about ...
